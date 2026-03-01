@@ -35,5 +35,5 @@ This hub highlights my **Spring 2026 projects** with short, recruiter-friendly s
 ---
 
 ## Contact
-- Email: juliuszhw@outlooj.com
+- Email: juliuszhw@outlook.com
 - GitHub: https://github.com/zihaojuliuswu
