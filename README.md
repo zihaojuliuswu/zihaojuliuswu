@@ -14,8 +14,7 @@ This hub highlights my **Spring 2026 projects** with short, recruiter-friendly s
 **My role:** Feature engineering, model building, evaluation, and communicating results.  
 **Tools:** Python (pandas, numpy), scikit-learn (or your toolkit), visualization, reporting  
 **What I learned:** Data cleaning, feature design, baseline modeling, interpretation of coefficients, model diagnostics.  
-**Repo:** [link]  
-**Demo/Report:** [link]
+**Repo:** (https://github.com/zihaojuliuswu/delay_and_cancel/#)  
 
 ---
 
@@ -24,7 +23,7 @@ This hub highlights my **Spring 2026 projects** with short, recruiter-friendly s
 **My role:** Implement assignment + update steps, evaluate convergence, interpret centroids.  
 **Tools:** Python (numpy)  
 **What I learned:** Distance-based clustering, centroid updates, convergence criteria, cluster interpretation.  
-**Repo:** [link]  
+**Repo:** https://github.com/zihaojuliuswu/K-Means_clustering_soccer  
 
 ---
 
